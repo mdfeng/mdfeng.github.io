@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baby-rsses on 难得糊涂</title>
+    <link>http://mdfeng.github.io/baby/index.xml</link>
+    <description>Recent content in Baby-rsses on 难得糊涂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2016 17:03:10 +0800</lastBuildDate>
+    <atom:link href="http://mdfeng.github.io/baby/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>baby</title>
+      <link>http://mdfeng.github.io/baby/hello/</link>
+      <pubDate>Fri, 14 Oct 2016 17:03:10 +0800</pubDate>
+      
+      <guid>http://mdfeng.github.io/baby/hello/</guid>
+      <description>&lt;p&gt;hi ,baby  welcome &amp;hellip;&amp;hellip;&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
